@@ -1,0 +1,130 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+  address {
+    font-style: normal;
+  }
+  .logo{
+    font-family: Roboto;
+    margin-right: 93px;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: white;
+}
+.header-logo{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: red;
+}
+.header-logo2{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: white;
+}
+header{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #2F303A;
+    margin-top: 24px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+}
+.contacts-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: white;
+}
+.contacts-list-link:hover, .nav-list-link:hover{
+    color:  red;
+    transition: 1s;
+}
+.contacts-list, .nav-list{
+    display: flex;
+    gap: 50px;
+    margin-right: 344px;
+}
+
+footer{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #2F303A;
+}
+.address{
+    margin-top: 20px;
+}
+.address-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+}
+body{
+    margin: 0;
+}
+.address-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: white;
+}
+.address-list-link:hover{
+    color:  red;
+    transition: 1s;
+}
+.box{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+ul{
+       margin: 0;
+       padding: 0;
+}
+h3{
+    font-family: Roboto;
+}
