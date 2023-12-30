@@ -128,3 +128,46 @@ ul{
 h3{
     font-family: Roboto;
 }
+.films-list{
+    width: 1100px;
+    margin-left: 700px;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+   }
+   img{
+    transition: 1s;
+   }
+   img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+   }
+   .NewYear-list{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 221px;
+   }
+.NewYear-list-text{
+    display: flex;
+    justify-content: center;
+    font-family: Roboto;
+    cursor: pointer;
+    color: black;
+}
+.NewYear-list-text:hover{
+    color:  red;
+    transition: 1s;
+}
+.wishes-list-item{
+    width: 630px;
+}
+.wishes-list{
+    width: 1310px;
+    margin-left: 700px;
+    gap: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px
+}
